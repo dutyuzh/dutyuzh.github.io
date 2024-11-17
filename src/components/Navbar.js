@@ -136,18 +136,8 @@ const Navbar = () => {
       >
         <motion.a
           target={"_blank"}
-          className="w-6 m-1 mr-3 sm:mx-1"
-          href="#"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my twitter profile"
-        >
-          <TwitterIcon />
-        </motion.a>
-        <motion.a
-          target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
-          href="#"
+          href="https://github.com/dutyuzh"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
           aria-label="Checkout my github profile"
@@ -157,34 +147,13 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 sm:mx-1"
-          href="#"
+          href="https://linkedin.com/in/dashautyuzh"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
           aria-label="Checkout my linkedin profile"
         >
           <LinkedInIcon />
         </motion.a>
-        <motion.a
-          target={"_blank"}
-          className="w-6 m-1 mx-3 bg-light rounded-full sm:mx-1"
-          href="#"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my pinterest profile"
-        >
-          <PinterestIcon />
-        </motion.a>
-        <motion.a
-          target={"_blank"}
-          className="w-6 m-1 mx-3 sm:mx-1"
-          href="#"
-          whileHover={{ y: -2 }}
-          whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my dribbble profile"
-        >
-          <DribbbleIcon />
-        </motion.a>
-
         <button
           onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={`w-6 h-6 ease m-1 ml-3 sm:mx-1 flex items-center justify-center rounded-full p-1  
