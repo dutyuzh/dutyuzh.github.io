@@ -43,7 +43,7 @@ export default function Home() {
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-              As a seasoned Staff Engineer with over 10 years of experience, I specialize in crafting intuitive, high-performance web applications. My passion lies in blending cutting-edge front-end technologies like React.js with thoughtful UI/UX design to bring innovative solutions to life. Explore my latest work, including projects that enhance user experiences, streamline system designs, and integrate AI advancements. Let's create something amazing together!
+              As a seasoned Staff Engineer with over 10 years of experience, I specialize in crafting intuitive, high-performance web applications. My passion lies in blending cutting-edge front-end technologies like React.js with thoughtful UI/UX design to bring innovative solutions to life. Explore my latest work, including projects that enhance user experiences, streamline system designs, and integrate AI advancements. Lets create something amazing together!
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
