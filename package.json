@@ -4,11 +4,9 @@
   "private": true,
   "homepage": "http://dutyuzh.github.io",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "npm run add-nojekyll && gh-pages -d out",
-    "add-nojekyll": "touch out/.nojekyll",
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },

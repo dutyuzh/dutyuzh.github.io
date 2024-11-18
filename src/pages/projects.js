@@ -5,12 +5,8 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import proj1 from "../../public/images/projects/feral-woods-wordpress.png";
-// import proj2 from "../../public/images/projects/nft-collection-website-cover-image.jpg";
-// import proj3 from "../../public/images/projects/fashion-studio-website.jpg";
-// import proj4 from "../../public/images/projects/portfolio-cover-image.jpg";
-// import proj5 from "../../public/images/projects/agency-website-cover-image.jpg";
-// import proj6 from "../../public/images/projects/devdreaming.jpg";
+import { prefix } from '../../utils/prefix.js';
+import proj1 from `${prefix}/images/projects/feral-woods-wordpress.png`;
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
