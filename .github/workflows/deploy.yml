@@ -30,7 +30,6 @@ jobs:
         git config --global user.name "Dasha Utyuzh"
         git config --global user.email "dutyuzh@gmail.com"
     
-    
     - name: Deploy to GitHub Pages
       run: npm run deploy
       env:
