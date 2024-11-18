@@ -17,8 +17,8 @@ export default function Home() {
         <title>Dasha Utyuzh Portfolio</title>
         <meta
           name="description"
-          content="Explore Dasha's Next.js developer portfolio and 
-        discover the latest webapp projects and software engineering articles."
+          content="Explore Dashas's Frontend Software Engineer portfolio and 
+        discover the latest webapp projects and software engineering articles.."
         />
       </Head>
 
@@ -38,9 +38,13 @@ export default function Home() {
               />
             </div>
             <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
+            <AnimatedText
+                text="Hi, I'm Dasha."
+                className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
+              />
               <AnimatedText
                 text="Transforming Ideas into Seamless User Experiences."
-                className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
+                className="!text-left !text-5xl xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-4xl sm:!text-2xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
               As a seasoned Staff Engineer with over 10 years of experience, I specialize in crafting intuitive, high-performance web applications. My passion lies in blending cutting-edge front-end technologies like React.js with thoughtful UI/UX design to bring innovative solutions to life. Explore my latest work, including projects that enhance user experiences, streamline system designs, and integrate AI advancements. Lets create something amazing together!
