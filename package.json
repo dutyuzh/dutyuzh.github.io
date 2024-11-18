@@ -5,9 +5,10 @@
   "homepage": "http://dutyuzh.github.io",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out",
+    "deploy": "npm run add-nojekyll && gh-pages -d out",
+    "add-nojekyll": "touch out/.nojekyll",
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },

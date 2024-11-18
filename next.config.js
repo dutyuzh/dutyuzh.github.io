@@ -2,7 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export', // this tells Next.js to generate static files to export
-  basePath: '/dutyuzh.github.io'
+  images: {
+    unoptimized: true, //disabled the build-in image optimization
+  }
 }
 
 module.exports = nextConfig
