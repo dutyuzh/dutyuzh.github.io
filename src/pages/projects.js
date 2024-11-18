@@ -5,8 +5,7 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import { prefix } from '../../utils/prefix.js';
-import proj1 from `${prefix}/images/projects/feral-woods-wordpress.png`;
+import proj1 from "../../public/images/projects/feral-woods-wordpress.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
