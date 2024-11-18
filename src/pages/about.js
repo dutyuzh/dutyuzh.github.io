@@ -39,7 +39,7 @@ export default function About() {
     <>
       <Head>
         <title>Dasha Utyuzh | About Page</title>
-        <meta name="description" content="Learn more about Dasha, a Staff Engineer with over 12 years of experience in creating efficient, user-centric digital experiences. Discover insights on front-end development, system design, and engineering leadership." />
+        <meta name="description" content="Learn more about Dasha, a Staff Engineer with over 10 years of experience in creating efficient, user-centric digital experiences. Discover insights on front-end development, system design, and engineering leadership." />
       </Head>
       <TransitionEffect />
       <main className="flex w-full flex-col items-center justify-center dark:text-light">
@@ -55,7 +55,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-                Hi, I’m <strong>Dasha</strong>, a Staff Frontend Software Engineer with over 12 years of experience in crafting innovative, high-performance user interfaces and systems. My career has focused on building scalable and efficient web applications, optimizing UI performance, and leading engineering teams. I specialize in creating seamless digital experiences that are not only functional but also aesthetically pleasing.
+                Hi, I’m <strong>Dasha</strong>, a Staff Frontend Software Engineer with over 10 years of experience in crafting innovative, high-performance user interfaces and systems. My career has focused on building scalable and efficient web applications, optimizing UI performance, and leading engineering teams. I specialize in creating seamless digital experiences that are not only functional but also aesthetically pleasing.
               </p>
               <p className="my-4 font-medium">
                 Throughout my career, I’ve worked on a variety of projects—from frontend development and UI enhancements to system design and backend optimizations. I thrive on collaborating with cross-functional teams to bring user-centered solutions to life, and I’m constantly exploring ways to improve the speed and usability of digital products.
