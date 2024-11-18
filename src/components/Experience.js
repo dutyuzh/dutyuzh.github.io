@@ -101,7 +101,15 @@ const Experience = () => {
             position="Senior Experience Engineer"
             company="Publicis Sapient"
             companyLink="https://www.publicissapient.com"
-            time="March, 2015 - July, 2018"
+            time="Oct, 2017 - July, 2018"
+            address="Cleveland, Ohio"
+            work="Managed front-end development for Fortune 300 clients such as Timberland, The North Face, Wrangler, Vans, Smartwool, and Lee. Collaborated in an agile global team using WebSphere Commerce (WCS) and Adobe Experience Manager (AEM)."
+          />
+          <Details
+            position="Experience Engineer"
+            company="Publicis Sapient"
+            companyLink="https://www.publicissapient.com"
+            time="March, 2015 - Oct, 2017"
             address="Cleveland, Ohio"
             work="Managed front-end development for Fortune 300 clients such as Timberland, The North Face, Wrangler, Vans, Smartwool, and Lee. Collaborated in an agile global team using WebSphere Commerce (WCS) and Adobe Experience Manager (AEM)."
           />
