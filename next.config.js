@@ -6,7 +6,7 @@ const nextConfig = {
   images: {
     unoptimized: true,  // Disables image optimization
   },
-  basePath: '/dutyuzh.github.io', // Repository name or base path for the deployment
+  basePath: '', // Repository name or base path for the deployment
   assetPrefix: '', // Don't add another prefix here
 }
 
