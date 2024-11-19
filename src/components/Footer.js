@@ -13,7 +13,7 @@ const Footer = () => {
         <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
 
         <Link
-          href="https://devdreaming.com/about"
+          href="mailto:dutyuzh@gmail.com"
           target="_blank"
           className="underline underline-offset-2"
         >
