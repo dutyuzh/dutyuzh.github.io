@@ -1,5 +1,6 @@
 # Portfolio
 This project allows users to showcase their dev portfolio. This README will guide you through setting up, running, and developing the project locally.
+[Click Me For Demo](https://dutyuzh.github.io/)
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
