@@ -1,6 +1,6 @@
 Next.js Blog Project (Personal Use License)
 
-Copyright (c) 2023-2024 DashaUtyuzh
+Copyright (c) 2024-2025 DashaUtyuzh
 
 This software and associated documentation files ("the Software") are provided for personal use only, subject to the following conditions:
 
