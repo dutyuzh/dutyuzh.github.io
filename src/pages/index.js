@@ -8,9 +8,7 @@ import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg";
 import profilePic from "../../public/images/profile/developer-pic-1.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
-
 export default function Home() {
-  
   return (
     <>
       <Head>
@@ -38,7 +36,7 @@ export default function Home() {
               />
             </div>
             <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
-            <AnimatedText
+              <AnimatedText
                 text="Hi, I'm Dasha."
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl text-primary dark:text-primaryDark"
               />
@@ -47,11 +45,18 @@ export default function Home() {
                 className="!text-left !text-5xl xl:!text-4xl lg:!text-center lg:!text-5xl md:!text-4xl sm:!text-2xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-              As a seasoned Staff Frontend Software Engineer with over 10 years of experience, I specialize in crafting intuitive, high-performance web applications. My passion lies in blending cutting-edge front-end technologies like React.js with thoughtful UI/UX design to bring innovative solutions to life. Explore my latest work, including projects that enhance user experiences, streamline system designs, and integrate AI advancements. Lets create something amazing together!
+                As a seasoned Staff Frontend Software Engineer with over 10
+                years of experience, I specialize in crafting intuitive,
+                high-performance web applications. My passion lies in blending
+                cutting-edge front-end technologies like React.js with
+                thoughtful UI/UX design to bring innovative solutions to life.
+                Explore my latest work, including projects that enhance user
+                experiences, streamline system designs, and integrate AI
+                advancements. Lets create something amazing together!
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
-                  href="/Dasha Utyuzh Resume 2025.pdf"
+                  href="/DUtyuzh.pdf"
                   target={"_blank"}
                   className={`flex items-center rounded-lg border-2 border-solid bg-dark p-2.5 px-6 text-lg font-semibold
             capitalize text-light hover:border-dark hover:bg-transparent hover:text-dark 
