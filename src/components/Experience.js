@@ -65,7 +65,7 @@ const Experience = () => {
             position="Staff Software Engineer"
             company="TechStyleOS JustFab"
             companyLink="https://www.justfab.com"
-            time="Nov, 2023 - Oct, 2024"
+            time="Nov, 2023 - Current"
             address="Remote"
             work="Led the successful delivery of a new React e-commerce site that unified three brands into a single codebase, ensuring functionality and scalability for future enhancements. Utilized technologies like React, TypeScript, Jest, HTML, SASS, RESTful APIs, Git."
           />
